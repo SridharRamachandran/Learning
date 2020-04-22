@@ -5,6 +5,11 @@
     <test name="My First Selenium TestNG Test">
         <classes>
             <class name="test1.GoogleHomePageTest100"/>
+<class name="test1.GoogleHomePageTest100"/>
+<class name="test1.GoogleHomePageTest100"/>
+<class name="test1.GoogleHomePageTest100"/>
+<class name="test1.GoogleHomePageTest100"/>
+<class name="test1.GoogleHomePageTest100"/>
         </classes>
     </test>
 </suite>
